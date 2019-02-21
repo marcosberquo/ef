@@ -1,0 +1,10 @@
+C:\csharp\EFCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\csharp\EFCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\csharp\EFCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\csharp\EFCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
